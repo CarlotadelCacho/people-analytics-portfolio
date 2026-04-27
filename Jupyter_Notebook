@@ -1,3 +1,1 @@
 attrition_analysis.ipynb
-df = pd.read_csv("WA_Fn-UseC_-HR-Employee-Attrition.csv")
-df.head()
