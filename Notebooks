@@ -5,3 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 df = pd.read_csv("../data/WA_Fn-UseC_-HR-Employee-Attrition.csv")
 df.head()
+from google.colab import files
+uploaded = files.upload()
+
