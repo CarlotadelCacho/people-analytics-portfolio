@@ -27,5 +27,5 @@ Hi, I’m a People Analytics enthusiast focused on using data to improve hiring,
 - Tools: SQL / Python
 
 ## Contact
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: (linkedin.com/in/carlota-del-cacho-ba3918202)
+- Email: (carlotadelcacho@gmail.com)
