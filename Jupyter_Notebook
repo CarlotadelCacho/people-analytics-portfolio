@@ -1,1 +1,3 @@
 attrition_analysis.ipynb
+df = pd.read_csv("../data/your_file.csv")
+df.head()
