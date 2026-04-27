@@ -1,1 +1,9 @@
 attrition_analysis.ipynb
+/employee-attrition-analysis/data/WA_Fn-UseC_-HR-Employee-Attrition.csv
+https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/WA_Fn-UseC_-HR-Employee-Attrition.csv
+import pandas as pd
+
+url = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/WA_Fn-UseC_-HR-Employee-Attrition.csv"
+
+df = pd.read_csv(url)
+df.head()
