@@ -12,5 +12,3 @@ import pandas as pd
 
 df = pd.read_csv("WA_Fn-UseC_-HR-Employee-Attrition.csv")
 df.head()
-df = pd.read_csv("https://raw.githubusercontent.com/USERNAME/REPO/main/data/WA_Fn-UseC_-HR-Employee-Attrition.csv")
-df.head()
